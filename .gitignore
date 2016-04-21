@@ -1,0 +1,6 @@
+# system file
+*.DS_Store
+
+# node file	
+node_modules/
+*.log
